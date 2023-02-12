@@ -1,0 +1,30 @@
+body {
+    background-color:#1e90ff;
+    background-size: cover;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    color: #333;
+  }
+  
+  h1 {
+    font-size: 36px;
+    margin-top: 50px;
+    color: #fff;
+    text-shadow: 2px 2px #333;
+  }
+  
+  p {
+    margin-top: 50px;
+  }
+  
+  a {
+    display: inline-block;
+    margin: 20px;
+    padding: 10px 20px;
+    background-color: #333;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    box-shadow: 2px 2px #333;
+  }
+  
